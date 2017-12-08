@@ -5,6 +5,7 @@ Description: Plugin pour intégrer short code remerciement simplon
 Version: 0.1
 Author: Alexandre NESIC
 License: GPL2
+URI : https://github.com/KyzenLJ/partenariat-simplon
 */
 
 function ThxSimplon() {
